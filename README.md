@@ -1,1 +1,1 @@
-# JavaScript examples
+# JavaScript example projects
